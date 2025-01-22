@@ -11,7 +11,7 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
 <h1 style="color: black; font-size: 40px;" align="center">new-change in jrnkins and tomcat</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
-<h1 style="color: black; font-size: 40px;" align="center">i updated webhooks</h1>
+<h1 style="color: black; font-size: 40px;" align="center">i updated webhooks but forgot github trigger in jenkins so dont forget to add it</h1>
 
 </body>
 </html>
